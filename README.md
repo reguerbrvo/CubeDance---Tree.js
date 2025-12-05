@@ -82,7 +82,8 @@ The setup follows the same development environment used in the course skeleton f
 ---
 
 ## Demonstration
-[VIDEO](demo.mp3)
+[VIDEO](demo.mp4)
+[ANIMATION](https://msr9q3.csb.app/)
 
 ---
 
